@@ -7,7 +7,7 @@
     <list default="true" id="6c68ad40-d873-42fe-8f7f-401492b029eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chrome-Dino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chrome-Dino/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Dino.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Dino.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ground.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ground.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnimatedSprite.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnimatedSprite.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
       <workItem from="1686991709983" duration="10000" />
       <workItem from="1686991738684" duration="2162000" />
       <workItem from="1687053667315" duration="1657000" />
+      <workItem from="1687438680078" duration="2537000" />
     </task>
     <servers />
   </component>
