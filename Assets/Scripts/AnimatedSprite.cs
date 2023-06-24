@@ -28,7 +28,7 @@ public class AnimatedSprite : MonoBehaviour
         frame++;
 
         if (frame >= sprites.Length)
-        {
+        { 
             frame = 0;
         }
 
