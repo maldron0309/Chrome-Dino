@@ -10,6 +10,10 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] private float gameSpeedIncrease = 0.1f;
     [SerializeField] private float initialGameSpeed = 5f;
+
+    private Player Player;
+    private Spanwer Spanwer;
+
     
 
     private void Awake()
@@ -34,13 +38,35 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        Player = FindObjectOfType<Player>();
+        Spanwer = FindObjectOfType<Spanwer>();
         NewGame();
     }
 
     private void NewGame()
     {
+        Obstacle[] obstacles = FindObjectsOfType<Obstacle>();
+
+        foreach (var obstacle in obstacles) {
+            Destroy(obstacle.gameObject);
+        }
+        
         gameSpeed = initialGameSpeed;
+        enabled = true;
+        
+        Player.gameObject.SetActive(true);
+        Spanwer.gameObject.SetActive(true);
     }
+
+    public void GameOver()
+    {
+        gameSpeed = 0f;
+        enabled = false;
+        
+        Player.gameObject.SetActive(false);
+        Spanwer.gameObject.SetActive(false);
+        
+     }
 
     private void Update()
     {
