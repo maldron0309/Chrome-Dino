@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c68ad40-d873-42fe-8f7f-401492b029eb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chrome-Dino/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chrome-Dino/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bird.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bird.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Doube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Doube.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Single.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Single.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Triple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Large_Triple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Doube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Doube.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Single.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Single.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Triple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cactus_Small_Triple.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Dino.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Dino.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +97,8 @@
       <workItem from="1687053667315" duration="1657000" />
       <workItem from="1687438680078" duration="2908000" />
       <workItem from="1687572156462" duration="3331000" />
-      <workItem from="1687640827036" duration="2056000" />
+      <workItem from="1687640827036" duration="2395000" />
+      <workItem from="1687657369897" duration="1324000" />
     </task>
     <servers />
   </component>
