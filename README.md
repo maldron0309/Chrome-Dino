@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-  📁 <strong>Download:</strong><a href="https://github.com/zigurous/unity-dino-game-tutorial">zigurous/unity-dino-game-tutorial</a><br>
+  📁 <strong>Download:</strong><a href=""></a><br>
   💡 <strong>Base Unity Version:</strong> <strong>2021.3.26f1</strong>
 </p>
